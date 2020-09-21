@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-qr-code-app-example"
+    }
+  },
+  "defaultProject": "angular-qr-code-app-example",
+  "cli": {
+    "analytics": false
+  }
 }
